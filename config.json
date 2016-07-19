@@ -1,0 +1,5 @@
+{
+  "routes": [
+    "/sample/v1/users/:id"
+  ]
+}

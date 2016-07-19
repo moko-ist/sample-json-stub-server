@@ -1,0 +1,6 @@
+{
+  "id": "#{id}",
+  "name": "foo-#{id}",
+  "createdAt": 1468898474,
+  "updatedAt": 1468898474
+}
