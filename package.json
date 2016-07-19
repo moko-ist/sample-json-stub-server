@@ -1,0 +1,22 @@
+{
+  "name": "sample-json-stub-server",
+  "version": "0.0.1",
+  "description": "Sample stub server which returns stable JSON with node-easymock",
+  "main": "index.js",
+  "dependencies": {
+    "easymock": "git@github.com:moko-ist/node-easymock.git#0866142"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moko-ist/sample-json-stub-server.git"
+  },
+  "author": "moko-ist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moko-ist/sample-json-stub-server/issues"
+  },
+  "homepage": "https://github.com/moko-ist/sample-json-stub-server#readme"
+}
